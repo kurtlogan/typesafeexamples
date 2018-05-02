@@ -1,9 +1,0 @@
-[0m[[0m[0minfo[0m] [0m[0m[32mSmartConstructorsSpec:[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mUppercaseString[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- must convert string to uppercase[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mNonEmptyList[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- must return none for an empty list[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- must return some for a non empty list[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mNaturalNumber[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- must return none for a number 0 or less[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- must return some for a number greater than 0[0m[0m
